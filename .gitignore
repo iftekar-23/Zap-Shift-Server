@@ -1,3 +1,4 @@
 node_modules
 .env
+*.json
 zap-shift-firebase-adminsdk.json
